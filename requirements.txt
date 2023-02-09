@@ -3,5 +3,5 @@ flask
 pillow
 numpy
 os-sys
-tensorflow==2.3.1
+Tensorflow==2.11.0
 
