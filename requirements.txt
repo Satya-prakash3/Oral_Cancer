@@ -1,6 +1,6 @@
 pip==23.0
 flask
-tensorflow==2.11.0
+tensorflow==2.10
 pillow
 numpy
 os-sys
