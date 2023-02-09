@@ -2,4 +2,4 @@ pip==23.0
 flask
 pillow
 numpy
-os-sys
+
