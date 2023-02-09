@@ -2,6 +2,4 @@ pip==23.0
 flask
 pillow
 numpy
-Wheel
-os_sys
 Tensorflow==2.11.0
