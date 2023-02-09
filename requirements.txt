@@ -3,4 +3,3 @@ flask
 pillow
 numpy
 os-sys
-werkzeug
