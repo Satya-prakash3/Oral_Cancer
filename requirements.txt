@@ -4,3 +4,4 @@ pillow
 numpy
 Tensorflow==2.11.0
 gunicorn
+werkzeug
